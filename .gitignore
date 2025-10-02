@@ -17,3 +17,5 @@ project/my_model/**/*.json
 # 특정 폴더 전체 무시
 project/model/final_bert_model/
 project/model/results/
+
+.env
